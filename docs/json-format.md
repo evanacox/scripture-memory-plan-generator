@@ -11,7 +11,6 @@ looks like this:
             "chapters": [
                 {
                     "n": 1,
-                    "title": "The Creation of the World",
                     "verses": [
                         {
                             "id": 1,
